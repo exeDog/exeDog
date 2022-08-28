@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=exeDog)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=exeDog)](https://github.com/exeDoggithub-profile-trophy)
+
 I'm a full-time multitasking ninja. 
 
 Just kidding. I am a full stack software engineer, building applications and services for about 5 years. I specialize in Ruby, Javascript (React & Vue), Scala and Node. Got a Masters degree in Information Systems.
