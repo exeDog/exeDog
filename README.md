@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=exeDog)
-
 I'm a full-time multitasking ninja. 
 
-Just kidding. I am a full stack software engineer, building applications and services for about 7 years. I specialize in Ruby, Javascript (React & Vue), Scala and Node. Got a Masters degree in Information Systems.
+I'm a full-stack software engineer and open source contributor, about ten years in, focused on modern, performant web apps. React & Vue on the front. Ruby, Go, Scala & Node on the back. I also hold Master's degrees in Computer Science & Data Science.
 
-In my free time I'm a passionate mixed martial arts practitioner. I practise Muay Thai and Jiu Jitsu, preparing for my blue belt. You can also catch me at the gym.
+Most of my work now is platform and authorization systems: event-driven services, shared libraries other teams build on, and the reliability work that keeps them running.
+
+I favor clear abstractions and code that stays maintainable as it scales. I care about performance, clean architecture, and modular, well-tested code. Lately that's meant event-driven services and shared libraries other teams build on.
+
+Outside of work, I'm a passionate mixed-martial-arts practitioner, I train Muay Thai and Jiu-Jitsu and you'll often catch me at the gym.
 
 - 🔭 I’m currently working on <b>Identity and Access Management</b>
 - 🌱 I’m currently learning <b>Golang</b>
