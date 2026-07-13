@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I'm a full-time multitasking ninja. 
-
 I'm a full-stack software engineer and open source contributor, about ten years in, focused on modern, performant web apps. React & Vue on the front. Ruby, Go, Scala & Node on the back. I also hold Master's degrees in Computer Science & Data Science.
 
 Most of my work now is platform and authorization systems: event-driven services, shared libraries other teams build on, and the reliability work that keeps them running.
