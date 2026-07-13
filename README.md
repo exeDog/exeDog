@@ -4,7 +4,7 @@ I'm a full-stack software engineer and open source contributor, about ten years 
 
 Most of my work now is platform and authorization systems: event-driven services, shared libraries other teams build on, and the reliability work that keeps them running.
 
-I favor clear abstractions and code that stays maintainable as it scales. I care about performance, clean architecture, and modular, well-tested code. Lately that's meant event-driven services and shared libraries other teams build on.
+I favor clear abstractions and code that stays maintainable as it scales. I care about performance, clean architecture, and modular, well-tested code.
 
 Outside of work, I'm a passionate mixed-martial-arts practitioner, I train Muay Thai and Jiu-Jitsu and you'll often catch me at the gym.
 
